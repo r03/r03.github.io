@@ -1,10 +1,10 @@
 body {
     background-image: url("DSC02399~2 (1).jpg");
-    background-color: #cccccc; /* Used if the image is unavailable */
-    height: 500px; /* You must set a specified height */
-    background-position: center; /* Center the image */
-    background-repeat: no-repeat; /* Do not repeat the image */
-    background-size: cover; /* 
+    background-color: #cccccc; 
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: cover;
 }
 
 h1   {
