@@ -9,3 +9,8 @@ p   {
     font-family: Verdana, "Lucida Sans Unicode", sans-serif;
     text-align: center;
 }
+
+body {
+background-image: url('');
+opacity: 0.5;
+}
