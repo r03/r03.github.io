@@ -12,4 +12,7 @@ p   {
 
 body {
     background-image: url('DSC02399~2 (1).jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
 }
