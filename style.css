@@ -3,7 +3,7 @@ h1   {
     font-family: Verdana, "Lucida Sans Unicode", sans-serif;
 }
 
-.container {
+div {
   display: flex; 
   text-align: center;
   color: rgb(255, 255, 255);
