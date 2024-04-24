@@ -9,6 +9,10 @@ p   {
     width: 40%;
 }
 
+.container {
+  display: flex; /* or inline-flex */
+}
+
 body {
     background-image: url('DSC02399~2 (1).jpg');
     height: 500px; 
