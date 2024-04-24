@@ -4,11 +4,11 @@ h1   {
 }
 
 div {
-  display: flex; 
-  align-content: center;
-  color: rgb(255, 255, 255);
-  font-family: Verdana, "Lucida Sans Unicode", sans-serif;
-  width: 40%;
+    display: flex; 
+    align-content: center;
+    color: rgb(255, 255, 255);
+    font-family: Verdana, "Lucida Sans Unicode", sans-serif;
+    width: 40%;
 }
 
 body {
