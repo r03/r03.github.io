@@ -1,23 +1,5 @@
-h1   {
-    color: rgb(255, 255, 255);
-    font-family: Verdana, "Lucida Sans Unicode", sans-serif;
-}
-
-div {
-    color: rgb(255, 255, 255);
-    font-family: Verdana, "Lucida Sans Unicode", sans-serif;
-    width: 40%;
-}
+body {background-color: black;}
 
 body {
-    background-image: url('DSC02399~2 (1).jpg');
-    height: 500px; 
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
-    background-color: #000000;     
-    text-align: center;
-    display: flex; 
-    align-items: center;
-    flex-flow: column;
-}
+    color: rgb(255, 255, 255);
+  }
