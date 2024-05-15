@@ -10,11 +10,6 @@ div {
 }
 
 body {
-  background-image: url('DSC02399~2 (1).jpg');
-  height: 500px; 
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
   background-color: #000000;     
   text-align: center;
   display: flex; 
